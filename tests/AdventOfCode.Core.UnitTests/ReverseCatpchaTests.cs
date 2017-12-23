@@ -60,7 +60,7 @@ namespace AdventOfCode.Core.UnitTests
 
             Console.WriteLine(result);
 
-            Assert.Equal(9, result);
+            Assert.Equal(1253, result);
         }
     }
 }
